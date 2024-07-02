@@ -5,3 +5,5 @@ Hello Aliens ! Welcome to our planet Earth.
 
 solution:
 print("Hello Aliens ! Welcome to our planet Earth.")
+Output:
+Hello Aliens ! Welcome to our planet Earth.
